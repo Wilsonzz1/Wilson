@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧${s.BOT}✧────◆
+╭────WILSON-MD────◆
 │   *Préfix* : ${s.PREFIXE}
 │   *Owner* : ${s.OWNER_NAME}
 │   *Mode* : ${mode}
@@ -41,9 +41,9 @@ const date = moment().format('DD/MM/YYYY');
 │   *Hour* : ${temps}
 │   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │   *Plateforme* : ${os.platform()}
-│   *Développer* : Djalega++ 
+│   *Développer* : W̸I̸L̸S̸O̸N̸-I̸N̸F̸I̸N̸I̸T̸Y̸
 │  & M๏𝓷keℽ D Lบffy
-╰─────✧WA-BOT✧─────◆ \n\n`;
+╰─────✧WILSON-MD✧─────◆ \n\n`;
     
 let menuMsg = `
 👋 Hello ${nomAuteurMessage} 👋
